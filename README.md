@@ -1,1 +1,1 @@
-# JadeCore 5.4.7 Updates by DOVERMAN
+# JadeCore 5.4.7 Bugtracker
